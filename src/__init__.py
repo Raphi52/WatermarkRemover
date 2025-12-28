@@ -1,0 +1,3 @@
+"""
+WatermarkRemover - Modern Glassmorphism UI
+"""
